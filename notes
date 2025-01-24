@@ -1,0 +1,10 @@
+ep 7 
+
+
+// create browser router is used to create element with path in ehich we can create child path if we want to keep something intact like header here and outlet is used to render child path on basisi of path children will fill ooutlet on base of path given and link s used to provide path and router provider is used in app component ot provide route to whole app in which router prop is passed as constant created using createbrowser router
+
+
+ep 6
+
+
+// see and implement post update method 6.1 issue resolve last for adding more cards by scrolling hw
